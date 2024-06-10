@@ -1,0 +1,17 @@
+body
+{
+    background :linear-gradient(#00A36C 0%,#00FFFF 100%);
+    color :Black;
+}
+.heading
+{
+    width : 80%;
+    font-size : 22px;
+    
+}
+#camera
+{
+    border : 2px dashed black;
+    width: 350px;
+    height: 300px ;
+}
